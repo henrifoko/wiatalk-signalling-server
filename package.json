@@ -1,0 +1,15 @@
+{
+  "name": "text-demo",
+  "version": "1.0.0",
+  "description": "WebRTC chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^7.2.5"
+  },
+  "author": "Henri Foko",
+  "license": "ISC"
+}
